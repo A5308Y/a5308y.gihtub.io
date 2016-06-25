@@ -1,3 +1,26 @@
+---
+layout: post
+title:  "Verbs and Nouns in Ruby On Rails"
+date:   2015-05-11 12:40:52 +0200
+categories: REST
+---
+
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+
+
 # The Motivation
 
 I've heard a lot about REST in my early days of Rails (Rails 3 was just around the corner, so it's not THAT early) and I understood it was using the HTTP verbs GET, PUT (now PATCH), POST and DELETE and allowed Rails developers to have statelessness in their URIs, among other things.
