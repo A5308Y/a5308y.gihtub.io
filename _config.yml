@@ -7,13 +7,13 @@
 
 # Site settings
 title: Excellence-Through-Accidents
-email: your-email@example.com
+email: a5308y@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Excellence Through Accidents gives you software development patterns applied 
   in a Ruby on Rails environment. It cares about subjectively beautiful code 
   and it wants to be a light read.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://excellence-through-accidents.com" # the base hostname & protocol for your site
+url: "http://excellence-through-accidents.org" # the base hostname & protocol for your site
 twitter_username: a5308y
 github_username:  a5308y
 
